@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #0d0b0e;
+}
+.container {
+  width: 90%;
+  margin: auto;
+}
+.img {
+  display: -webkit-inline-flex;
+  justify-content: flex-end;
+  align-items: center;
+}
